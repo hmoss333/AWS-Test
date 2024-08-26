@@ -1,0 +1,5 @@
+{
+  "MinimumUnityLoggingLevel": "2",
+  "IsUnityLoggingEnabled": "True",
+  "MaxLogQueueSize": "1000"
+}
